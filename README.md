@@ -1,6 +1,6 @@
-##Lista_de_exercicios
+## Lista_de_exercicios
 
- #Resolução de exercicios de lógica de programação em python
+ # Resolução de exercicios de lógica de programação em python
  
  **PDF da lista postado "Lógica Programação - Estrutura Sequencial - Exercício Prof. Saulo Sávio L. Santos"**
  
